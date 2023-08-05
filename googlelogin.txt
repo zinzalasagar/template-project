@@ -1,0 +1,6 @@
+clien id 
+433157288199-pa7dbhutt3tgi45ltdqf8hea9062plfv.apps.googleusercontent.com
+
+client secret 
+
+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
